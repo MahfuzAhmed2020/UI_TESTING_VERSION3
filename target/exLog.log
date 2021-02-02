@@ -1,0 +1,207 @@
+2020-10-11 13:35:29 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-11 13:35:33 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-11 13:35:38 INFO  ForumLogin:37 - Verify Home Page title
+2020-10-11 13:35:52 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-11 13:35:57 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-11 13:36:02 INFO  ForumLogin:37 - Verify Home Page title
+2020-10-11 13:36:02 INFO  ForumLogin:40 - Entering username
+2020-10-11 13:36:02 INFO  ForumLogin:42 - Entering password
+2020-10-11 13:38:47 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-11 13:38:51 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-11 13:38:56 INFO  ForumLogin:37 - Verify Home Page title
+2020-10-11 13:38:56 INFO  ForumLogin:40 - Entering username
+2020-10-11 13:38:57 INFO  ForumLogin:42 - Entering password
+2020-10-11 13:41:01 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-11 13:41:06 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-11 13:41:10 INFO  ForumLogin:37 - Verify Home Page title
+2020-10-11 13:49:26 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-11 13:49:31 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-11 13:49:36 INFO  Utilities:42 - The test is passed
+2020-10-11 13:49:36 INFO  ForumPage:32 - Entering the username mitulsunny8@gmail.com
+2020-10-11 13:49:36 INFO  ForumPage:36 - Entering the username password
+2020-10-11 13:49:40 INFO  Utilities:42 - The test is passed
+2020-10-14 19:27:12 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-14 19:27:17 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 19:27:23 INFO  Utilities:64 - The test is passed
+2020-10-14 19:27:23 INFO  ForumPage:32 - Entering the username mitulsunny8@gmail.com
+2020-10-14 19:27:23 INFO  ForumPage:36 - Entering the username password
+2020-10-14 19:27:29 INFO  Utilities:64 - The test is passed
+2020-10-14 19:34:22 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-14 19:34:27 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 19:34:32 INFO  Utilities:64 - The test is passed
+2020-10-14 19:34:32 INFO  ForumPage:32 - Entering the username mitulsunny8@gmail.com
+2020-10-14 19:34:32 INFO  ForumPage:36 - Entering the username password
+2020-10-14 19:34:38 INFO  Utilities:64 - The test is passed
+2020-10-14 19:47:19 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-14 19:47:23 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 19:47:29 INFO  Utilities:66 - The test is passed
+2020-10-14 19:47:29 INFO  ForumPage:32 - Entering the username mitulsunny8@gmail.com
+2020-10-14 19:47:30 INFO  ForumPage:36 - Entering the username password
+2020-10-14 19:47:36 INFO  Utilities:66 - The test is passed
+2020-10-14 19:47:44 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-14 19:47:49 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 19:47:55 INFO  Utilities:66 - The test is passed
+2020-10-14 19:47:55 INFO  ForumPage:32 - Entering the username mitulsunny8@gmail.com
+2020-10-14 19:47:55 INFO  ForumPage:36 - Entering the username password
+2020-10-14 19:48:01 INFO  Utilities:66 - The test is passed
+2020-10-14 20:07:54 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-14 20:07:59 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 20:08:06 INFO  Utilities:63 - The test is passed
+2020-10-14 20:08:06 INFO  ForumPage:32 - Entering the username mitulsunny8@gmail.com
+2020-10-14 20:08:06 INFO  ForumPage:36 - Entering the username password
+2020-10-14 20:08:13 INFO  Utilities:63 - The test is passed
+2020-10-14 20:10:00 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-14 20:10:05 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 20:10:12 INFO  Utilities:65 - The test is Failed
+2020-10-14 20:10:12 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-14 20:10:12 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-14 20:17:36 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-14 20:17:42 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 20:17:48 INFO  Utilities:65 - The test is Failed
+2020-10-14 20:17:48 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-14 20:17:48 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-14 20:17:48 INFO  Utilities:29 - The error message from catch block: null
+2020-10-14 20:20:41 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-14 20:20:46 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 20:20:52 INFO  Utilities:65 - The test is Failed
+2020-10-14 20:20:52 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-14 20:20:52 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-14 20:20:52 INFO  Utilities:29 - The error message from catch block: null
+2020-10-14 20:22:19 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-14 20:22:26 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 20:22:33 INFO  Utilities:65 - The test is Failed
+2020-10-14 20:22:33 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-14 20:22:33 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-14 20:22:33 INFO  Utilities:29 - The error message from catch block: null
+2020-10-14 20:24:37 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-14 20:24:42 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 20:24:49 INFO  Utilities:65 - The test is Failed
+2020-10-14 20:24:49 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-14 20:24:49 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-14 20:24:49 INFO  Utilities:29 - The error message from catch block: null
+2020-10-14 20:25:37 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-14 20:25:42 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 20:25:48 INFO  Utilities:65 - The test is Failed
+2020-10-14 20:25:48 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-14 20:25:48 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-14 20:25:48 INFO  Utilities:29 - The error message from catch block: null
+2020-10-14 20:27:20 INFO  ForumLogin:30 - Opening chrome browser
+2020-10-14 20:27:26 INFO  ForumLogin:32 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 20:27:32 INFO  Utilities:65 - The test is Failed
+2020-10-14 20:27:32 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-14 20:27:32 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-14 20:27:32 INFO  Utilities:29 - The error message from catch block: null
+2020-10-14 20:32:35 INFO  ForumLogin:31 - Opening chrome browser
+2020-10-14 20:32:35 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 20:32:41 INFO  Utilities:65 - The test is Failed
+2020-10-14 20:32:41 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-14 20:32:41 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-14 20:32:41 INFO  Utilities:29 - The error message from catch block: null
+2020-10-14 20:34:57 INFO  ForumLogin:31 - Opening chrome browser
+2020-10-14 20:34:57 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 20:35:02 INFO  Utilities:65 - The test is Failed
+2020-10-14 20:35:02 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-14 20:35:02 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-14 20:36:44 INFO  ForumLogin:31 - Opening chrome browser
+2020-10-14 20:36:44 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2020-10-14 20:36:50 INFO  Utilities:65 - The test is Failed
+2020-10-14 20:36:50 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-14 20:36:50 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-17 18:33:14 INFO  ForumLogin:31 - Opening chrome browser
+2020-10-17 18:33:14 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2020-10-17 18:33:22 INFO  Utilities:65 - The test is Failed
+2020-10-17 18:33:22 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-17 18:33:22 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-17 18:34:49 INFO  ForumLogin:31 - Opening chrome browser
+2020-10-17 18:34:49 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2020-10-17 18:34:55 INFO  Utilities:65 - The test is Failed
+2020-10-17 18:34:55 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-17 18:34:55 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-17 18:36:36 INFO  ForumLogin:31 - Opening chrome browser
+2020-10-17 18:36:36 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2020-10-17 18:36:43 INFO  Utilities:65 - The test is Failed
+2020-10-17 18:36:43 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-17 18:36:43 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-17 23:36:33 INFO  ForumLogin:31 - Opening chrome browser
+2020-10-17 23:36:33 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2020-10-17 23:36:41 INFO  Utilities:65 - The test is Failed
+2020-10-17 23:36:41 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-17 23:36:41 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-17 23:38:22 INFO  ForumLogin:31 - Opening chrome browser
+2020-10-17 23:38:22 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2020-10-17 23:38:29 INFO  Utilities:65 - The test is Failed
+2020-10-17 23:38:29 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-17 23:38:29 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-10-17 23:39:08 INFO  ForumLogin:31 - Opening chrome browser
+2020-10-17 23:39:08 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2020-10-17 23:39:15 INFO  Utilities:65 - The test is Failed
+2020-10-17 23:39:15 INFO  Utilities:66 - Expected value is : OSA Consulting Tech - All the projects...
+2020-10-17 23:39:15 INFO  Utilities:67 - Actual value is : OSA Consulting Tech - All the projects.
+2020-12-03 21:11:52 INFO  ForumLogin:31 - Opening chrome browser
+2020-12-03 21:11:52 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2020-12-03 21:11:58 INFO  Utilities:75 - The test is Failed
+2020-12-03 21:11:58 INFO  Utilities:76 - Expected value is : OSA Consulting Tech - All the projects...
+2020-12-03 21:11:58 INFO  Utilities:77 - Actual value is : OSA Consulting Tech - All the projects.
+2021-01-14 01:58:20 INFO  ForumLogin:31 - Opening chrome browser
+2021-01-14 01:58:20 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-01-14 01:58:34 INFO  Utilities:75 - The test is Failed
+2021-01-14 01:58:34 INFO  Utilities:76 - Expected value is : OSA Consulting Tech - All the projects...
+2021-01-14 01:58:34 INFO  Utilities:77 - Actual value is : OSA Consulting Tech - All the projects.
+2021-01-14 02:02:28 INFO  ForumLogin:31 - Opening chrome browser
+2021-01-14 02:02:28 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-01-14 02:02:33 INFO  Utilities:75 - The test is Failed
+2021-01-14 02:02:33 INFO  Utilities:76 - Expected value is : OSA Consulting Tech - All the projects...
+2021-01-14 02:02:33 INFO  Utilities:77 - Actual value is : OSA Consulting Tech - All the projects.
+2021-01-14 02:04:15 INFO  ForumLogin:31 - Opening chrome browser
+2021-01-14 02:04:15 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-01-14 02:04:22 INFO  Utilities:75 - The test is Failed
+2021-01-14 02:04:22 INFO  Utilities:76 - Expected value is : OSA Consulting Tech - All the projects...
+2021-01-14 02:04:22 INFO  Utilities:77 - Actual value is : OSA Consulting Tech - All the projects.
+2021-01-14 02:08:54 INFO  ForumLogin:31 - Opening chrome browser
+2021-01-14 02:08:54 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-01-14 02:09:12 INFO  Utilities:75 - The test is Failed
+2021-01-14 02:09:12 INFO  Utilities:76 - Expected value is : OSA Consulting Tech - All the projects...
+2021-01-14 02:09:12 INFO  Utilities:77 - Actual value is : OSA Consulting Tech - All the projects.
+2021-01-14 02:10:12 INFO  Utilities:36 - The error message from catch block: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=87.0.4280.141)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MAHFUZ', ip: '192.168.1.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\mahfu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50226}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 848c643d1f5dc01b3045bf3991305c59
+2021-01-14 02:11:07 INFO  ForumLogin:31 - Opening chrome browser
+2021-01-14 02:11:07 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-01-14 02:11:22 INFO  Utilities:73 - The test is passed
+2021-01-14 02:11:22 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-01-14 02:11:22 INFO  ForumPage:36 - Entering the username AbrarMahfuz1
+2021-01-14 02:11:26 INFO  Utilities:73 - The test is passed
+2021-01-14 02:13:18 INFO  ForumLogin:31 - Opening chrome browser
+2021-01-14 02:13:18 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-01-14 02:13:32 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-01-14 02:13:32 INFO  ForumPage:36 - Entering the username AbrarMahfuz1
+2021-01-14 02:13:37 INFO  Utilities:73 - The test is passed
+2021-01-14 02:15:11 INFO  ForumLogin:31 - Opening chrome browser
+2021-01-14 02:15:11 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-01-14 02:15:32 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-01-14 02:15:32 INFO  ForumPage:36 - Entering the username 
+2021-01-14 02:15:36 INFO  Utilities:73 - The test is passed
+2021-01-14 02:16:26 INFO  ForumLogin:31 - Opening chrome browser
+2021-01-14 02:16:26 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-01-14 02:16:40 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-01-14 02:17:46 INFO  ForumLogin:31 - Opening chrome browser
+2021-01-14 02:17:46 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-01-14 02:17:59 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-01-14 02:17:59 INFO  ForumPage:36 - Entering the username 
+2021-01-14 02:18:03 INFO  Utilities:73 - The test is passed
+2021-01-14 02:23:01 INFO  ForumLogin:31 - Opening chrome browser
+2021-01-14 02:23:01 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-01-14 02:23:17 INFO  Utilities:73 - The test is passed
+2021-01-14 02:23:17 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-01-14 02:23:17 INFO  ForumPage:36 - Entering the username 
+2021-01-14 02:23:21 INFO  Utilities:73 - The test is passed
+2021-01-17 15:07:25 INFO  ForumLogin:31 - Opening chrome browser
+2021-01-17 15:07:25 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-01-17 15:07:40 INFO  Utilities:73 - The test is passed
+2021-01-17 15:07:40 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-01-17 15:07:40 INFO  ForumPage:36 - Entering the username 
+2021-01-17 15:07:45 INFO  Utilities:73 - The test is passed
