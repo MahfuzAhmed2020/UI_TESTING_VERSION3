@@ -205,3 +205,91 @@ Session ID: 848c643d1f5dc01b3045bf3991305c59
 2021-01-17 15:07:40 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
 2021-01-17 15:07:40 INFO  ForumPage:36 - Entering the username 
 2021-01-17 15:07:45 INFO  Utilities:73 - The test is passed
+2021-06-01 21:48:51 INFO  ForumLogin:31 - Opening chrome browser
+2021-06-01 21:48:51 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-06-01 21:49:03 INFO  Utilities:73 - The test is passed
+2021-06-01 21:49:03 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-06-01 21:49:03 INFO  ForumPage:36 - Entering the username 
+2021-06-01 21:49:07 INFO  Utilities:73 - The test is passed
+2021-06-01 21:53:37 INFO  ForumLogin:31 - Opening chrome browser
+2021-06-01 21:53:37 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-06-01 21:53:50 INFO  Utilities:73 - The test is passed
+2021-06-01 21:53:50 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-06-01 21:53:50 INFO  ForumPage:36 - Entering the username 
+2021-06-01 21:53:54 INFO  Utilities:73 - The test is passed
+2021-06-01 22:01:59 INFO  ForumLogin:31 - Opening chrome browser
+2021-06-01 22:01:59 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-06-01 22:02:13 INFO  Utilities:73 - The test is passed
+2021-06-01 22:02:13 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-06-01 22:02:14 INFO  ForumPage:36 - Entering the username 
+2021-06-01 22:02:18 INFO  Utilities:73 - The test is passed
+2021-06-01 22:03:09 INFO  ForumLogin:31 - Opening chrome browser
+2021-06-01 22:03:09 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-06-01 22:03:22 INFO  Utilities:73 - The test is passed
+2021-06-01 22:03:22 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-06-01 22:03:22 INFO  ForumPage:36 - Entering the username 
+2021-06-01 22:03:26 INFO  Utilities:75 - The test is Failed
+2021-06-01 22:03:26 INFO  Utilities:76 - Expected value is : Student Page1
+2021-06-01 22:03:26 INFO  Utilities:77 - Actual value is : Student Page
+2021-06-01 22:06:34 INFO  ForumLogin:31 - Opening chrome browser
+2021-06-01 22:06:34 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-06-01 22:06:47 INFO  Utilities:73 - The test is passed
+2021-06-01 22:06:47 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-06-01 22:06:48 INFO  ForumPage:36 - Entering the username 
+2021-06-01 22:06:52 INFO  Utilities:75 - The test is Failed
+2021-06-01 22:06:52 INFO  Utilities:76 - Expected value is : Student Page1
+2021-06-01 22:06:52 INFO  Utilities:77 - Actual value is : Student Page
+2021-06-01 22:10:23 INFO  ForumLogin:31 - Opening chrome browser
+2021-06-01 22:10:23 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-06-01 22:10:36 INFO  Utilities:72 - The test is passed
+2021-06-01 22:10:36 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-06-01 22:10:37 INFO  ForumPage:36 - Entering the username 
+2021-06-01 22:10:41 INFO  Utilities:74 - The test is Failed
+2021-06-01 22:10:41 INFO  Utilities:75 - Expected value is : Student Page1
+2021-06-01 22:10:41 INFO  Utilities:76 - Actual value is : Student Page
+2021-06-01 22:10:41 INFO  Utilities:35 - The error message from catch block: Destination 'C:\Users\mahfu\Desktop\OSA0130202007B\OSA_UI_TestingVersion3\screenshots' exists but is a directory
+2021-06-01 22:12:56 INFO  ForumLogin:31 - Opening chrome browser
+2021-06-01 22:12:56 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-06-01 22:13:10 INFO  Utilities:72 - The test is passed
+2021-06-01 22:13:10 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-06-01 22:13:10 INFO  ForumPage:36 - Entering the username 
+2021-06-01 22:13:14 INFO  Utilities:74 - The test is Failed
+2021-06-01 22:13:14 INFO  Utilities:75 - Expected value is : Student Page1
+2021-06-01 22:13:14 INFO  Utilities:76 - Actual value is : Student Page
+2021-06-01 22:13:15 INFO  Utilities:35 - The error message from catch block: Destination 'C:\Users\mahfu\Desktop\OSA0130202007B\OSA_UI_TestingVersion3\screenshots' exists but is a directory
+2021-06-01 22:17:41 INFO  ForumLogin:31 - Opening chrome browser
+2021-06-01 22:17:41 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-06-01 22:17:55 INFO  Utilities:73 - The test is passed
+2021-06-01 22:17:55 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-06-01 22:17:55 INFO  ForumPage:36 - Entering the username 
+2021-06-01 22:18:00 INFO  Utilities:73 - The test is passed
+2021-06-01 22:26:46 INFO  ForumLogin:31 - Opening chrome browser
+2021-06-01 22:26:46 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-06-01 22:26:59 INFO  Utilities:73 - The test is passed
+2021-06-01 22:26:59 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-06-01 22:26:59 INFO  ForumPage:36 - Entering the username 
+2021-06-01 22:27:03 INFO  Utilities:73 - The test is passed
+2021-06-01 22:40:15 INFO  ForumLogin:31 - Opening chrome browser
+2021-06-01 22:40:15 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-06-01 22:40:28 INFO  Utilities:73 - The test is passed
+2021-06-01 22:40:28 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.co
+2021-06-01 22:40:29 INFO  ForumPage:36 - Entering the username 
+2021-06-01 22:40:33 INFO  Utilities:75 - The test is Failed
+2021-06-01 22:40:33 INFO  Utilities:76 - Expected value is : Student Page
+2021-06-01 22:40:33 INFO  Utilities:77 - Actual value is : OSA Consulting Tech - All the projects.
+2021-06-01 22:41:39 INFO  ForumLogin:31 - Opening chrome browser
+2021-06-01 22:41:39 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-06-01 22:41:53 INFO  Utilities:73 - The test is passed
+2021-06-01 22:41:53 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.co
+2021-06-01 22:41:53 INFO  ForumPage:36 - Entering the username 
+2021-06-01 22:41:57 INFO  Utilities:75 - The test is Failed
+2021-06-01 22:41:57 INFO  Utilities:76 - Expected value is : Student Page
+2021-06-01 22:41:57 INFO  Utilities:77 - Actual value is : OSA Consulting Tech - All the projects.
+2021-06-01 22:43:31 INFO  ForumLogin:31 - Opening chrome browser
+2021-06-01 22:43:31 INFO  ForumLogin:33 - Navigating to https://www.osaconsultingtech.com
+2021-06-01 22:43:45 INFO  Utilities:73 - The test is passed
+2021-06-01 22:43:45 INFO  ForumPage:32 - Entering the username mahfuz23@gmail.com
+2021-06-01 22:43:45 INFO  ForumPage:36 - Entering the username 
+2021-06-01 22:43:49 INFO  Utilities:75 - The test is Failed
+2021-06-01 22:43:49 INFO  Utilities:76 - Expected value is : Student Page1
+2021-06-01 22:43:49 INFO  Utilities:77 - Actual value is : Student Page

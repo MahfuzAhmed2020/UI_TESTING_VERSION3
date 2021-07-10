@@ -10,7 +10,6 @@ public class Base {
     @BeforeClass
 	public void settingBrowser(ITestContext contex) {
 	dr=	Browser.openBrowser("chrome");
-	
 	contex.setAttribute("WebDriver", dr);
 	//contex.getAttribute("WebDriver");
 	

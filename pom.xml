@@ -26,8 +26,17 @@
 	    <artifactId>commons-io</artifactId>
 	    <version>2.6</version>
 	</dependency>
+	<dependency>
+			<groupId>io.github.bonigarcia</groupId>
+			<artifactId>webdrivermanager</artifactId>
+			<version>4.3.1</version>
+	</dependency>
 	
-		
+	<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20090211</version>
+		</dependency>	
 	
 	
 

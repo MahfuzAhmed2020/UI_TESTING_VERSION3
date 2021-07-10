@@ -6,15 +6,14 @@ import java.io.IOException;
 
 public class TextFileReader {
 	public static void main(String[] args) {
-		textFileReader("C:\\Users\\mahfu\\Desktop\\ppp.txt");
+		textFileReader("C:\\Users\\mahfu\\Desktop\\OSA interview QUESTIONS\\Data Structure (New Forum Page).txt");
 	}
 
 public static void textFileReader(String excelPath) {
 	 BufferedReader br = null;
 
 	    try {
-
-	        String sCurrentLine;
+            String sCurrentLine;
 	        br = new BufferedReader(new FileReader(excelPath));
 	       // br = new BufferedReader(new FileReader("C:\\Users\\mahfu\\Desktop\\ppp.txt"/*excelPath*/));
 
@@ -27,8 +26,8 @@ public static void textFileReader(String excelPath) {
 	    } finally {
 	        try {
 	            if (br != null)br.close();
-	        } catch (IOException ex) {
-	            ex.printStackTrace();
+	        } catch (Exception e) {
+	            System.out.println(e.getMessage());
 	        }
 	    }
 

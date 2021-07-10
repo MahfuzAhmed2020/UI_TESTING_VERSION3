@@ -26,7 +26,7 @@ public class ForumLogin extends Base {
 //		Utilities.verifyString(expectedValue,dr.getTitle());
 //		dr.close();
 //  }
-  @Test
+  @Test()
   public void verifyForumLogin() throws InterruptedException {
 	  log.info("Opening chrome browser");
 	 //dr=Browser.openBrowser("chrome");
@@ -50,7 +50,7 @@ public class ForumLogin extends Base {
 	  fp.clickOnLoginButton();
 	 
 	  Thread.sleep(4000);
-	  String actualValue="Student Page";
+	  String actualValue="Student Page1";
 	  Utilities.verifyString(actualValue, dr.getTitle());
 
   }

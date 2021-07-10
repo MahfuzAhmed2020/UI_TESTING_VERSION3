@@ -15,15 +15,16 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class AppContains {
-	public static String[][] dataTable;
+	
 	public static void main(String[] args) {
-		Object [][]s=getValue("C:\\Users\\obaidulla\\Desktop\\myTestDatas.xlsx","Sheet1");
-		for (Object[] objects :s ) {
-			for (Object s1 : objects) {
-				System.out.println(s1);
-			}
-			
-		}
+//		Object [][]s=getValue("C:\\Users\\mahfu\\Desktop\\ExelTemp\\TestDemo.xlsx","Sheet1");
+//		for (Object[] objects :s ) {
+//			for (Object s1 : objects) {
+//				System.out.println(s1);
+//			}
+//		}
+		//getWorkbookDataByRow("C:\\Users\\mahfu\\Desktop\\ExelTemp\\TestDemo.xlsx","labor",9);
+		readToExcelByCell("b2");
 	}
 
 	public static Object[][] getValue(String filePath,String sheetName) {
@@ -59,9 +60,9 @@ public class AppContains {
 		// cellNumber.replace(oldChar, newChar)
 		cellNumber = cellNumber.replace(":", "");
 		try {
-			InputStream file = new FileInputStream("C:\\Users\\mahfu\\Desktop\\TestData.xlsx"/*excelFilePath*/);
+			InputStream file = new FileInputStream("C:\\Users\\mahfu\\Desktop\\ExelTemp\\TestDemo.xlsx"/*excelFilePath*/);
 			XSSFWorkbook workBook = new XSSFWorkbook(file);
-			XSSFSheet sheetName = workBook.getSheet("QA"/*sheetName*/);
+			XSSFSheet sheetName = workBook.getSheet("labor"/*sheetName*/);
 			CellReference cf = new CellReference(cellNumber);
 			Row row = sheetName.getRow(cf.getRow());
 			Cell cell = row.getCell(cf.getCol());
@@ -77,9 +78,10 @@ public class AppContains {
 	}
 public static String[][] getWorkbookDataByRow(String filePath, String sheetName, int num) {
 
-		
+	  String[][] dataTable=null;
 		File file = new File(filePath);
 		try {
+			
 			// create a file input stream to read Excel workbook and worksheet
 			FileInputStream fileInput = new FileInputStream(file);
 			XSSFWorkbook xlWBook = new XSSFWorkbook(fileInput);
@@ -95,6 +97,7 @@ public static String[][] getWorkbookDataByRow(String filePath, String sheetName,
 			//int num;
 			// for each "row" create a XSSFRow, then iterate through the "columns"
 			// for each "column" create a XSSFCell to grab the value at the specified cell
+			System.out.println("The row number is "+num+"\n");
 			for (int i = num-1; i <numRows; i++) {
 				XSSFRow xlRow = xlSheet.getRow(i);
 				
